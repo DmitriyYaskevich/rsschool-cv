@@ -7,3 +7,4 @@ Skills:
 - Git
 - Java
 - JS
+English level - A2
